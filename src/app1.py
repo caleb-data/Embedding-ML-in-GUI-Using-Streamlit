@@ -1,5 +1,5 @@
 import streamlit as st
-from home import Home_page
+from home import home_page
 from data import data_page
 from predict import predict_page
 from dashboard import dashboard_page

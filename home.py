@@ -64,4 +64,4 @@ def home_page():
     st.write("Contact me on:")
 
 # add an image / way
-    st.markdown("[Visit Linkedln Profile](http://www.linkedin.com/in/william-dzorgenu)")
+    st.markdown("[Visit Linkedln Profile](https://www.linkedin.com/in/caleb-tetteh-nortey/)")
